@@ -6,12 +6,12 @@ author_github: retrium
 description: |
   Adventures in life and web development at Retrium
 baseurl: "/"
-url: http://localhost:4000/
+url: http://retrium.github.io/
 paginate: 12
 github:
   user: retrium
-  repository: localhost:4000
-  url: http://localhost:4000
+  repository: retrium.github.io
+  url: http://retrium.github.io
   status: false
 home_bgfile: bg.jpg
 sass:
