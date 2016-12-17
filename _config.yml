@@ -1,0 +1,28 @@
+---
+title: Retrium Dev Blog
+email: customerlove@retrium.com
+author: retrium
+author_github: retrium
+description: |
+  Adventures in life and web development at Retrium
+baseurl: "/"
+url: http://localhost:4000/
+paginate: 12
+github:
+  user: retrium
+  repository: localhost:4000
+  url: http://localhost:4000
+  status: false
+home_bgfile: bg.jpg
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+gems:
+- jekyll-paginate
+exclude:
+- vendor
